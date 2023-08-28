@@ -72,5 +72,5 @@ export async function getStaticProps() {
     revalidate: parseInt(BLOG.NEXT_REVALIDATE_SECOND)
   }
 }
-
+<script src="https://meta.key4.me/js/iframe.js" id="fastgpt-iframe" data-src="https://meta.key4.me/chat/share?shareId=fofmtzgh4mzr56cnck2jfau1" data-color="#4e83fd"></script>
 export default Index
