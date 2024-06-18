@@ -69,11 +69,13 @@ export async function getStaticProps(req) {
 
   return {
     props,
-    revalidate: siteConfig(
-      'NEXT_REVALIDATE_SECOND',
-      BLOG.NEXT_REVALIDATE_SECOND,
-      props.NOTION_CONFIG
-    )
+    revalidate: process.env.EXPORT
+      ? undefined
+      : siteConfig(
+          'NEXT_REVALIDATE_SECOND',
+          BLOG.NEXT_REVALIDATE_SECOND,
+          props.NOTION_CONFIG
+        )
   }
 }
 <script src="https://meta.key4.me/js/iframe.js" id="fastgpt-iframe" data-src="https://meta.key4.me/chat/share?shareId=fofmtzgh4mzr56cnck2jfau1" data-color="#4e83fd"></script>
