@@ -13,10 +13,10 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: '踏踏实实，闷声发大财', // 英雄区文字
   STARTER_HERO_TITLE_2: '市场没有证明你是对时候，你就是错的', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'z哥B站', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '每周三日晚八点直播', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://space.bilibili.com/326246517?spm_id_from=333.337.0.0', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '每周三日晚八点直播', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: 'z哥微博', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://weibo.com/u/1045604217', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
@@ -33,30 +33,30 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TITLE: '配置，配置，还是tm的配置', // 特性
+  STARTER_FEATURE_TEXT_1: '不追，不动，不慌，不乱摸', // 特性
   STARTER_FEATURE_TEXT_2:
-    'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
+    '大 A 踏不了空、扽起来就卖！ ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '一定记住了', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '在这个世界上啊，该是你的绝逼是你的', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '大师兄：嗨大了大叔', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://weibo.com/5756704167?refer_flag=1001030103_', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '一定要放飞，把钱揣兜里', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '风吹哪页读哪页，记住，一切都是最好安排', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '股探报告', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'https://weibo.com/u/6422252558', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '别小路过载，也别熵增', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '不要对票有感情，谁是县长不重要，重要的是我要当县长夫人', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '赚钱的票别做亏，以及设好止损', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '不要猜，心无所住，物来则应，过去不留', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '一切皆有可能，记住了吗？我们要做的是什么？是应对', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '留得青山在，一定有下一个小米', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
 
   // 首页ABOUT区块
