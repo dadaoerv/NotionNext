@@ -13,11 +13,11 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: '踏踏实实，闷声发大财', // 英雄区文字
   STARTER_HERO_TITLE_2: '市场没有证明你是对时候，你就是错的', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'z哥B站', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
+    'https://space.bilibili.com/326246517?spm_id_from=333.337.0.0', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '每周三日晚八点直播', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://weibo.com/u/1045604217', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -40,8 +40,8 @@ const CONFIG = {
 
   STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
   STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '大师兄：嗨大了大叔', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://weibo.com/5756704167?refer_flag=1001030103_', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
   STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
