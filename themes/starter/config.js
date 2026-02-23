@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '踏踏实实，闷声发大财', // 英雄区文字
+  STARTER_HERO_TITLE_1: '不追，不动，不慌，不乱摸，不抱怨', // 英雄区文字
   STARTER_HERO_TITLE_2: '市场没有证明你是对时候，你就是错的', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '每周三日晚八点直播', // 英雄区按钮
