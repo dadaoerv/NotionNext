@@ -33,31 +33,31 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '配置，配置，还是tm的配置', // 特性
-  STARTER_FEATURE_TEXT_1: '不追，不动，不慌，不乱摸', // 特性
+  STARTER_FEATURE_TITLE: '有的需要代理', // 特性
+  STARTER_FEATURE_TEXT_1: '常用复盘站点导航', // 特性
   STARTER_FEATURE_TEXT_2:
     '大 A 踏不了空、扽起来就卖！ ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '一定记住了', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '在这个世界上啊，该是你的绝逼是你的', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '大师兄：嗨大了大叔', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://weibo.com/5756704167?refer_flag=1001030103_', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '电子书搜索', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '电子书搜索，资源一般般', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '需要代理', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://jbiaojerry.github.io/ebook-treasure-chest/', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '一定要放飞，把钱揣兜里', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '风吹哪页读哪页，记住，一切都是最好安排', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '股探报告', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '优雅地阅读实时热门新闻', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '内容按国内、国际、科技、财经等分类聚合，来源覆盖微博、知乎、抖音、GitHub、华尔街、Hacker News、V2EX 等主流平台，一眼就能把当天热点扫清', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: 'newsnow', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://weibo.com/u/6422252558', // 特性2
+    'https://newsnow.busiyi.world/c/hottest', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '别小路过载，也别熵增', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '不要对票有感情，谁是县长不重要，重要的是我要当县长夫人', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '赚钱的票别做亏，以及设好止损', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '在线ai分析股票', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '非常牛逼还免费', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '善用ai', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://api.wtao.site/index.html#/', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '不要猜，心无所住，物来则应，过去不留', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '一切皆有可能，记住了吗？我们要做的是什么？是应对', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '留得青山在，一定有下一个小米', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '搜索引擎', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '强于百度，弱于谷歌但差不多', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '无需代理', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://search.catboy.house/', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
